@@ -1,0 +1,6 @@
+git --version : to check the version
+git --global : to make the changes for all
+git clone repo: to clone a repo
+cd , mv commands
+git checkout : to checkout a previous commit
+git diff first second : to check the difference b/w two commits
